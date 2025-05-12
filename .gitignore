@@ -1,0 +1,22 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore yarn lock file (optional, usually keep it)
+# yarn.lock
+
+# Ignore build output
+dist/
+build/
+
+# Ignore TypeScript build cache
+*.tsbuildinfo
+
+# Ignore IDE files (VSCode, etc.)
+.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
